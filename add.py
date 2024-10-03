@@ -21,3 +21,5 @@ def div(a, b):
     
 print(f"곱셈결과 :{ mul(num1, num2) }" )
 print(f"나눗셈결과 :{ div(num1, num2) }" )
+
+print("계산이 잘 되었어용")
